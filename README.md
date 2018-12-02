@@ -1,7 +1,7 @@
 # liri-node-app
 
-Welcome TO LIRI App....
-Overview:
+# Welcome TO LIRI App....
+# Overview:
 The is A simple and helpful command line App that offer data from different API's 
 The App retrieve data from Spotify and omdb and bandsintown API's
 Instructions:
